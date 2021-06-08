@@ -1,4 +1,10 @@
-/* h1{color:blue;} */   /*CSS練習１*/
+   /*CSS練習１*/
+/* h1{color:blue;} */
 h1{color: #f0a050;}
-th,td{border: dashed thick black; border-width: 2px;}  /*CSS:枠線の指定*/
-th.important{color: red;}   /*CSS:Class属性とセレクタ*/
+/*CSS:枠線の指定*/
+th,td{border: dashed thick black; border-width: 2px;}
+/*CSS:Class属性とセレクタ*/
+th.important{color: red;}
+p.sample1{border: double 10px #0000ff;}
+p.sample2{border: inset 10px #ff0000;}
+p.sample3{margin: 30px 30px; padding: 10px; border: medium solid #ff00ff;}
