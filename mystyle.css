@@ -1,4 +1,4 @@
 /* h1{color:blue;} */   /*CSS練習１*/
 h1{color: #f0a050;}
-th,td{border: dashed thick black; border-width: 1px;}  /*CSS:枠線の指定*/
+th,td{border: dashed thick black; border-width: 3px;}  /*CSS:枠線の指定*/
 th.important{color: red;}   /*CSS:Class属性とセレクタ*/
