@@ -6,4 +6,5 @@
 // alert(0/0); /*NaNと表示された(Not A Numberの略。計算結果が数値として表せないの意)*/
 // alert(2+3); /*5*/
 // alert('2'+'3'); /*23*/
-alert(Number('2')+Number('3'));
+//alert(Number('2')+Number('3')); /*5*/
+alert('2'+3);
