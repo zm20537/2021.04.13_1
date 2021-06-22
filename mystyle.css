@@ -1,6 +1,7 @@
    /*CSS練習１*/
 /* h1{color:blue;} */
-h1{color: #f0a050;}
+/*h1{color: #F0A050;}*/
+h1{color: green;}
 /*CSS:枠線の指定*/
 th,td{border: dashed thick black; border-width: 2px;}
 /*CSS:Class属性とセレクタ*/
