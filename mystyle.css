@@ -4,7 +4,7 @@ h1{color: #F0A050;}
 /*CSS:枠線の指定*/
 /*th,td{border: dashed thick black;}
 /*borderプロパティ*/
-th,td{border: dashed thick 10px　#000000 ;}
+th,td{border: dashed thick　#000000 100px;}
 th,td{border: transparent;}
 /*CSS:Class属性とセレクタ*/
 th.important{color: red;}
