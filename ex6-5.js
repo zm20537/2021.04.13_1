@@ -19,9 +19,12 @@ function sayhello2(){
 }
 function taro65(){
     who65 = '太郎';
-    alert(who65 + 'が来た');
+    kita;
 }
 function hanako65(){
     who65 = '花子';
+}
+var kita = comming();
+function comming(){
     alert(who65 + 'が来た');
 }
