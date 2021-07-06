@@ -14,7 +14,7 @@ function hanako65(){
 そのため、もう一度あいさつボタンを押すと"Hello, 太郎(花子)"となった。*/
 
 var who65 = 'world';
-function sayhello2(){
+function sayhello65(){
     alert('Hello,' + who65 + '!');
 }
 function taro65(){
