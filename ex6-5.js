@@ -13,11 +13,6 @@ function hanako65(){
 しかし、太郎や花子のボタンを押すことにより、who65に太郎（花子）を代入される。
 そのため、もう一度あいさつボタンを押すと"Hello, 太郎(花子)"となった。*/
 
-function somefunc(){
-    sayhello65();
-    sayhello2();
-}
-
 var who65 = 'world';
 function sayhello2(){
     alert('Hello,' + who65 + '!');
